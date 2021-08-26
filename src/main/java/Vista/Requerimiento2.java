@@ -30,7 +30,7 @@ public class Requerimiento2 extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(600, 153);//Establecemos el tamaño de la ventana Ancho y Largo
         setLocationRelativeTo(null);//Establecemos la ventana en el centro
-        setVisible(true);
+        setVisible(true);// Esto es para ver la interfas de ususario
 
         //Prueba Botón
         JButton botonPrueba = new JButton("Borrar");//Establese un texto al Botón
